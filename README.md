@@ -8,31 +8,39 @@
 
 ---
 
-### 🚀 About Me
-I'm a third-year **Computer Engineering student** with a passion for technology and innovation. I specialize in software development, microservices architecture, and have a strong commitment to teamwork and social responsibility.
+### 💡 Core Competencies
 
-- 🔭 **Software Engineer & Microservices Intern**
-- 🌱 **Founder of [MyHomeTeck](https://www.linkedin.com/company/myhometeck/?viewAsMember=true)**
-- 🌍 Committed to making a **positive social and professional impact**.
-- 💡 Creative, innovative, and solution-oriented mindset.
-- 🚀 Entrepreneurial spirit driving meaningful technological solutions.
+- 🚀 **Entrepreneurship & Innovation:** Driving startups from ideas to impactful products.
+- 🌐 **Full-Stack Web Development:** Skilled in React, FastAPI, JavaScript, and TypeScript.
+- 💻 **Linux & Virtualization:** Proficient with Ubuntu, Linux systems, and VMware environments.
+- 🤝 **Team Collaboration:** Effective communicator, committed to achieving team-driven success.
+### 💡 Core Competencies
 
----
+-----
 
-### 💻 Tech Stack
+### 🛠️ Technology Arsenal
 
-![C](https://img.shields.io/badge/-C-239120?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![VMware](https://img.shields.io/badge/-VMware_Workstation-607078?style=flat-square&logo=vmware&logoColor=white)
+- **Languages & Frameworks:**  
+  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+  ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+  ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+  ![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+
+- **Frameworks & Libraries:**  
+  ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+- **Platforms & Tools:**  
+  ![Linux Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+  ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
 
 ---
 
