@@ -7,8 +7,9 @@
 </p>
 
 ---
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FironiHabibzade&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=00FFB3&fire=00FFB3&currStreakLabel=00FFB3" alt="FironiHabibzade GitHub Streak"/>
+  <img height="180" src="https://streak-stats.demolab.com/?user=FironiHabibzade&theme=radical&hide_border=true&background=0D1117&ring=00FFB3&fire=00FFB3&currStreakLabel=00FFB3" alt="FironiHabibzade GitHub Streak"/>
 </p>
 
 ---
