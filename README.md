@@ -1,4 +1,6 @@
-<h2 align="center">Hi there, I'm Fironi Habibzade 👋</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Fironi%20Habibzade&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Founder%20of%20MyHomeTeck%20|%20Entrepreneur%20|%20Jr.%20Software%20Developer%20|%20Growth%20Hacker&descAlignY=55&descAlign=50" alt="Fironi Habibzade Banner"/>
+</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="coding" width="300"/>
