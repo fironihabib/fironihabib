@@ -10,7 +10,6 @@
 
 ### 💡 Core Competencies
 
-- 🚀 **Entrepreneurship & Innovation:** Driving startups from ideas to impactful products.
 - 🌐 **Full-Stack Web Development:** Skilled in React, FastAPI, JavaScript, and TypeScript.
 - 💻 **Linux & Virtualization:** Proficient with Ubuntu, Linux systems, and VMware environments.
 - 🤝 **Team Collaboration:** Effective communicator, committed to achieving team-driven success.
@@ -66,6 +65,3 @@
   <img src="https://komarev.com/ghpvc/?username=FironiHabibzade&color=green" alt="visitor badge"/>
 </p>
 
-<p align="center">
- Made with 💚 by Fironi Habibzade
-</p>
