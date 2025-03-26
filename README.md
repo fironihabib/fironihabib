@@ -65,6 +65,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FironiHabibzade&color=green" alt="visitor badge"/>
+  <img height="50" src="https://komarev.com/ghpvc/?username=FironiHabibzade&label=👀+Profile+Views&color=0e75b6&style=for-the-badge" alt="FironiHabibzade Profile Views"/>
 </p>
+
 
