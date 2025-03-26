@@ -16,7 +16,7 @@
 - 🤝 **Team Collaboration:** Effective communicator, committed to achieving team-driven success.
 
 ### 🛠️ Technology Arsenal
-
+---
 <h4 align="center">Languages & Frameworks</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
