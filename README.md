@@ -34,18 +34,19 @@ I'm a third-year **Computer Engineering student** with a passion for technology 
 
 ---
 
-### 📌 My Startup
-🌱 **[MyHomeTeck](https://www.linkedin.com/company/myhometeck/?viewAsMember=true)** - Revolutionizing property management with innovative rental tracking systems.
+<h3 align="center">📫 Connect With Me</h3>
 
-- 💡 Transforming ideas into practical technology-driven solutions.
-- 🚀 Developing entrepreneurial and leadership skills.
-
----
-
-### 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fironi-habibzade-575283263/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gabibzadeh03@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/fironi-habibzade-575283263/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:gabibzadeh03@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/FironiHabibzade">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
