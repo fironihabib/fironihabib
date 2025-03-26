@@ -9,8 +9,13 @@
 ---
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fironihabib&show_icons=true&hide_border=true&theme=radical" alt="fironihabib GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fironihabib&layout=compact&langs_count=10&theme=radical&hide_border=true" alt="Top Languages"/>
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fironihabib&theme=radical" alt="Profile Details"/>
+</p>
+
 
 
 
