@@ -7,10 +7,14 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fironihabib&layout=compact&langs_count=10&theme=radical&hide_border=true" alt="Top Languages"/>
+</p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fironihabib&theme=radical&no-frame=true&margin-w=10" alt="fironihabib GitHub Trophies"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fironihabib&theme=radical" alt="Profile Details"/>
 </p>
+
 
 ---
 
