@@ -14,8 +14,7 @@
 - 🌐 **Full-Stack Web Development:** Skilled in React, FastAPI, JavaScript, and TypeScript.
 - 💻 **Linux & Virtualization:** Proficient with Ubuntu, Linux systems, and VMware environments.
 - 🤝 **Team Collaboration:** Effective communicator, committed to achieving team-driven success.
-### 💡 Core Competencies
-
+- 
 -----
 
 ### 🛠️ Technology Arsenal
