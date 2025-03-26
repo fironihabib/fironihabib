@@ -9,7 +9,8 @@
 ### 🚀 About Me
 I'm a third-year **Computer Engineering student** with a passion for technology and innovation. I specialize in software development, microservices architecture, and have a strong commitment to teamwork and social responsibility.
 
-- 🌱 **Founder of MyHomeTeck**
+- 🔭 **Software Engineer & Microservices Intern**
+- 🌱 **Founder of [MyHomeTeck](https://www.linkedin.com/company/myhometeck/?viewAsMember=true)**
 - 🌍 Committed to making a **positive social and professional impact**.
 - 💡 Creative, innovative, and solution-oriented mindset.
 - 🚀 Entrepreneurial spirit driving meaningful technological solutions.
@@ -34,7 +35,7 @@ I'm a third-year **Computer Engineering student** with a passion for technology 
 ---
 
 ### 📌 My Startup
-🌱 **[MyHomeTeck](#)** - Revolutionizing property management with innovative rental tracking systems.
+🌱 **[MyHomeTeck](https://www.linkedin.com/company/myhometeck/?viewAsMember=true)** - Revolutionizing property management with innovative rental tracking systems.
 
 - 💡 Transforming ideas into practical technology-driven solutions.
 - 🚀 Developing entrepreneurial and leadership skills.
