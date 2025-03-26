@@ -14,10 +14,9 @@
 - 🌐 **Full-Stack Web Development:** Skilled in React, FastAPI, JavaScript, and TypeScript.
 - 💻 **Linux & Virtualization:** Proficient with Ubuntu, Linux systems, and VMware environments.
 - 🤝 **Team Collaboration:** Effective communicator, committed to achieving team-driven success.
-- 
------
 
 ### 🛠️ Technology Arsenal
+---
 
 - **Languages & Frameworks:**  
   ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
