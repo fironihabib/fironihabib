@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=fironihabib&theme=radical&hide_border=true&fire=00FFB3&currStreakLabel=00FFB3" alt="fironihabib GitHub Streak"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=fironihabib&theme=radical&no-frame=true&margin-w=10" alt="fironihabib GitHub Trophies"/>
 </p>
 
 ---
