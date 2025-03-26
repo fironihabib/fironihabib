@@ -9,8 +9,9 @@
 ---
 
 <p align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=FironiHabibzade&theme=highcontrast&hide_border=true" alt="FironiHabibzade GitHub Streak"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FironiHabibzade&show_icons=true&hide_border=true&theme=radical" alt="FironiHabibzade GitHub Stats"/>
 </p>
+
 
 
 ---
