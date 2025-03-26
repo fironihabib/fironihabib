@@ -9,15 +9,8 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fironihabib&layout=compact&langs_count=10&theme=radical&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=fironihabib&theme=radical&hide_border=true&fire=00FFB3&currStreakLabel=00FFB3" alt="fironihabib GitHub Streak"/>
 </p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fironihabib&theme=radical" alt="Profile Details"/>
-</p>
-
-
-
 
 ---
 
