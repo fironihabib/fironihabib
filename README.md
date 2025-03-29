@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Fironi%20Habibzade&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Entrepreneur%20|%20Jr.%20Software%20Developer%20|%20Growth%20Hacker&descAlignY=55&descAlign=50" alt="Fironi Habibzade Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Fironi%20Habibzade&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Tech%20Entrepreneur%20%7C%20Jr.%20Software%20Developer%20%7C%20Growth%20Hacker&descAlignY=55&descAlign=50" alt="Fironi Habibzade Banner"/>
 </p>
+
+
 
 
 <p align="center">
